@@ -1,0 +1,5 @@
+# Core (pipeline runs on the lexicon fallback with just pandas)
+pandas
+# Optional — enables the real FinBERT model:
+transformers
+torch
